@@ -1,0 +1,27 @@
+# Sensitive information
+**/config-backups/*-password.xml
+**/private/
+**/*.key
+**/*.pem
+**/.env
+
+# System files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Editor files
+.vscode/
+.idea/
+*.code-workspace
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Logs
+*.log
+logs/
