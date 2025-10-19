@@ -101,7 +101,7 @@ MIT License - See [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-[Your GitHub Profile] | [Your LinkedIn] | [Your Portfolio]
+[github.com/bsmith86dev] 
 
 ---
 
